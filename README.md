@@ -14,7 +14,7 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 
 ### Instalacion
 
-- Clonar el proyecto - `https://github.com/garceteclaudio/challenge-qa.git`.
+- Clonar el proyecto - `https://github.com/garceteclaudio/challenge-bds.git`.
 
 - Para utilizar el proyecto, se debe abrir una consola bash, situarnos en el directorio raiz del proyecto /challengeQA e instalar las dependencias de la siguiente manera:
 

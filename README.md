@@ -29,7 +29,7 @@ npm install
 
 Las pruebas son ejecutadas localmente.
 
-- Ubicacarse en la raiz del proyecto /challengeQA
+- Ubicacarse en la raiz del proyecto.
 
 - Ejecutar el siguiente script:
 
